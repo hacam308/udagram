@@ -1,14 +1,12 @@
 branch-defaults:
   default:
-    environment: udagram-api3
-    group_suffix: null
+    environment: haonc2
 environment-defaults:
-  udagram-api3:
+  haonc2:
     branch: null
     repository: null
 global:
   application_name: udagram-api3
-  branch: null
   default_ec2_keyname: vockey
   default_platform: Node.js 14 running on 64bit Amazon Linux 2
   default_region: us-east-1
@@ -17,6 +15,5 @@ global:
   platform_name: null
   platform_version: null
   profile: default
-  repository: null
   sc: null
   workspace_type: Application
